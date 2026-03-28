@@ -4,4 +4,4 @@
 
 - Added a GitHub Pages site for Steply Focus.
 - Added Privacy Policy, Terms of Use, and Support pages for App Store submission.
-
+- Tightened privacy and support wording to better match the current app behavior.

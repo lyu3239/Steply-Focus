@@ -180,7 +180,7 @@ ul {
 
 @media (max-width: 640px) {
   .shell {
-    width: min(100% - 20px, 960px);
+    width: min(calc(100% - 20px), 960px);
     padding-top: 24px;
   }
 
@@ -195,4 +195,3 @@ ul {
     font-size: 16px;
   }
 }
-
